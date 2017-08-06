@@ -1,10 +1,9 @@
-#pragma warning(disable:4996)
 #include<iostream>
 #include<assert.h>
 using namespace std;
 
-//模拟实现strncat函数
-//函数原型:char* strncat(char* dest,const char* src,size_t count)
+//妯℃嫙瀹炵幇strncat鍑芥暟
+//鍑芥暟鍘熷瀷:char* strncat(char* dest,const char* src,size_t count)
 
 char* my_strncat(char* dest, const char* src, size_t count)
 {
